@@ -1,0 +1,12 @@
+ArticolVestimentar rosu Nike Tricou_Sport 30 50
+ArticolVestimentar albastru Adidas Hanorac 44 150
+ArticolVestimentar verde Puma Tricou_Training 33 70
+ArticolVestimentar negru UnderArmour Pantaloni_Sport 66 120
+ArticolVestimentar galben Zara Geaca_Ploaie 43 250
+ArticolVestimentar alb Nike Sosete_Sport 78 10
+Disc Vinil Sony_Music 12-12-1990 Queen Greatest_Hits Disc_Queen 37 100
+Disc CD Warner_Music 15-06-1995 Nirvana Nevermind Disc_Nirvana 76 90
+Disc Vinil Columbia_Records 25-03-1983 Michael_Jackson Thriller Disc_Thriller 27 180
+DiscVintage 1 3 Vinil Universal_Music 01-01-1980 Beatles Abbey_Road Disc_Beatles 42 200
+DiscVintage 1 5 Vinil Capitol_Records 22-11-1968 Pink_Floyd Dark_Side Disc_Floyd 11 400
+DiscVintage 0 2 Vinil RCA_Records 05-07-1954 Elvis_Presley Blue_Moon Disc_Elvis 31 300

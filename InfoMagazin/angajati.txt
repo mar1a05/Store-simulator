@@ -1,0 +1,5 @@
+Popescu Ion 1900101123457 01-01-2010 Manager
+Ionescu Maria 2850315156781 15-03-2015 OperatorComenzi
+Georgescu Andrei 1980720203457 20-07-2020 Asistent
+Vasilescu Ana 2870510456789 10-05-2018 OperatorComenzi
+Popa Elena 2960903678901 03-09-2019 OperatorComenzi
