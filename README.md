@@ -2,7 +2,7 @@
 
 Proiectul a presupus implementarea unui sistem complet de administrare a unui magazin online de produse rock, incluzând gestiunea angajaților, a stocurilor și procesarea automată a comenzilor, folosind concepte de programare orientată pe obiecte în C++.
 
-##Cum a fost creat?
+## Cum a fost creat?
 Aplicatia a fost dezvoltata modular, folosind:
  - clase separate pentru produse
  - clase pentru angajati
